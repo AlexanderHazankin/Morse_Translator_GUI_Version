@@ -19,9 +19,9 @@ To add a new language, create a new list of characters and add it to the languag
 If you have any issues running the program or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
 ## Credits
-The language translation logic and alphabets created by Alexander Hazankin.
+The code created by Alexander Hazankin.
 
-The GUI implementation and modifications to the original code were done by ChatGPT.
+The PyQt5-based GUI implementation and modifications to the original code were done by ChatGPT.
 
 ## Contact
 For any questions or comments, you can reach me at:
